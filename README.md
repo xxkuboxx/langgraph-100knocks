@@ -6,15 +6,15 @@ LangGraphを実践的に学ぶための100本ノック形式の教材です。
 
 この教材は、以下の5つの章で構成されています。
 
-*   **[01_basics.ipynb](./01_basics.ipynb): 第1章 グラフの基本要素**
+*   **[1_basics.ipynb](./1_basics.ipynb): 第1章 グラフの基本要素**
     *   LangGraphの基本的な概念と構成要素を学びます。
-*   **[02_control_flow.ipynb](./02_control_flow.ipynb): 第2章 グラフの制御フロー**
+*   **[2_control_flow.ipynb](./2_control_flow.ipynb): 第2章 グラフの制御フロー**
     *   条件分岐、ループ、並列処理など、グラフの高度な制御フローに焦点を当てます。
-*   **[03_single_agent.ipynb](./03_single_agent.ipynb): 第3章 シングルエージェントとツール活用**
+*   **[3_single_agent.ipynb](./3_single_agent.ipynb): 第3章 シングルエージェントとツール活用**
     *   単一のエージェントが外部ツールを利用してタスクを実行する方法を扱います。
-*   **[04_multi_agent.ipynb](./04_multi_agent.ipynb): 第4章 マルチエージェント・ワークフロー**
+*   **[4_multi_agent.ipynb](./4_multi_agent.ipynb): 第4章 マルチエージェント・ワークフロー**
     *   複数のエージェントが協調してタスクを解決するマルチエージェントシステムを構築します。
-*   **[05_advanced.ipynb](./05_advanced.ipynb): 第5章 発展技術と運用**
+*   **[5_advanced.ipynb](./5_advanced.ipynb): 第5章 発展技術と運用**
     *   ストリーミング、永続化、デバッグなど、LangGraphのより高度な機能を学びます。
 
 ## 実行方法
